@@ -1,6 +1,5 @@
 원본페이지: "https://github.com/DS4SD/DocLayNet?tab=readme-ov-file"
 
-```markdown
 # DocLayNet: 문서 레이아웃 분석을 위한 대규모 인적 주석 데이터셋
 
 DocLayNet은 다양한 문서 소스에서 가져온 80,863페이지를 포함하는, 사람이 직접 주석을 단(human-annotated) 문서 레이아웃 분할 데이터셋입니다.
@@ -277,4 +276,4 @@ ArXiv 링크: [https://arxiv.org/abs/2206.01062](https://arxiv.org/abs/2206.0106
 ---
 
 **참고:** 이 문서는 제공된 HTML 파일의 핵심 내용(README)을 Markdown 형식으로 번역하고 재구성한 것입니다. GitHub 페이지의 UI 요소(버튼, 메뉴 등) 및 동적 정보(실시간 커밋, 기여자 목록 등)는 제외되었습니다. 데이터셋 다운로드 링크 및 통계(Stars, Forks 등)는 HTML 로드 시점의 정보일 수 있습니다. 최신 정보는 원본 GitHub 저장소를 참조하세요.
-```
+
